@@ -1,0 +1,5 @@
+Site da Flávia (UGC Creator)
+
+Hospedagem grátis: 1) Acesse app.netlify.com/drop 2) Descompacte este zip 3) Arraste a pasta inteira para a página.
+Mantenha a pasta assets junto do index.html.
+Para trocar fotos ou vídeos, substitua os arquivos em assets com o mesmo nome.
